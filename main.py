@@ -1,1 +1,1 @@
-print("bobo kayo")
+print("tae")
